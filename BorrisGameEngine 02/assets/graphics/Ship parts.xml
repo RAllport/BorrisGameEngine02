@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="Ship_parts.png">
+	<SubTexture name="2x damage power up" x="0" y="0" width="43" height="43"/>
+	<SubTexture name="Blue booster flame" x="43" y="0" width="15" height="66"/>
+	<SubTexture name="Blue booster flames" x="58" y="0" width="51" height="66"/>
+	<SubTexture name="Blue ship [no booster flames]" x="109" y="0" width="145" height="87"/>
+	<SubTexture name="Blue ship body" x="254" y="0" width="25" height="58"/>
+	<SubTexture name="Blue ship wing" x="279" y="0" width="71" height="83"/>
+	<SubTexture name="Main guage" x="0" y="87" width="293" height="69"/>
+	<SubTexture name="Red booster flame" x="293" y="87" width="15" height="66"/>
+	<SubTexture name="Red booster flames" x="308" y="87" width="51" height="66"/>
+	<SubTexture name="Red ship [no booster flames]" x="359" y="87" width="145" height="88"/>
+	<SubTexture name="Red ship body" x="0" y="175" width="26" height="57"/>
+	<SubTexture name="Red ship wing" x="26" y="175" width="71" height="83"/>
+	<SubTexture name="defence ball" x="97" y="175" width="63" height="63"/>
+	<SubTexture name="enemy ship 1" x="160" y="175" width="137" height="117"/>
+	<SubTexture name="enemy short laser" x="297" y="175" width="9" height="16"/>
+	<SubTexture name="enemy2" x="306" y="175" width="51" height="80"/>
+	<SubTexture name="fireball" x="357" y="175" width="21" height="21"/>
+	<SubTexture name="health power up" x="378" y="175" width="43" height="43"/>
+	<SubTexture name="light" x="421" y="175" width="21" height="21"/>
+	<SubTexture name="rapid fire power up" x="442" y="175" width="43" height="43"/>
+	<SubTexture name="rocket" x="485" y="175" width="19" height="46"/>
+	<SubTexture name="round blade enemy1" x="0" y="292" width="57" height="57"/>
+	<SubTexture name="round blade enemy2" x="57" y="292" width="150" height="150"/>
+	<SubTexture name="round blade enemy3" x="207" y="292" width="149" height="150"/>
+	<SubTexture name="shield power up" x="356" y="292" width="43" height="43"/>
+	<SubTexture name="short laser" x="399" y="292" width="16" height="9"/>
+	<SubTexture name="short laser instance 10001" x="415" y="292" width="16" height="9"/>
+	<SubTexture name="super bomb" x="0" y="442" width="90" height="90"/>
+	<SubTexture name="vitality bar" x="90" y="442" width="171" height="7"/>
+	<SubTexture name="vitality outline" x="261" y="442" width="173" height="9"/>
+	<SubTexture name="weapon upgrade power up" x="434" y="442" width="43" height="43"/>
+</TextureAtlas>

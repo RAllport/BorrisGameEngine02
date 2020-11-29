@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Enemy Sprites [FLCC]2.png">
+	<SubTexture name="Sider unit 1 walking leg forward0000" x="708" y="1183" width="133" height="55" pivotX="127.55" pivotY="35.45" frameX="-10" frameY="-19" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0001" x="1665" y="986" width="131" height="57" frameX="-12" frameY="-18" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0002" x="1892" y="294" width="129" height="59" frameX="-14" frameY="-17" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0003" x="248" y="230" width="127" height="60" frameX="-16" frameY="-17" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0004" x="248" y="167" width="125" height="62" frameX="-18" frameY="-16" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0005" x="1924" y="214" width="122" height="63" frameX="-21" frameY="-16" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0006" x="1924" y="148" width="120" height="65" frameX="-23" frameY="-15" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0007" x="1930" y="1" width="117" height="65" frameX="-26" frameY="-15" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0008" x="1930" y="67" width="115" height="66" frameX="-28" frameY="-15" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0009" x="1892" y="354" width="113" height="67" frameX="-30" frameY="-14" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0010" x="1933" y="583" width="110" height="68" frameX="-33" frameY="-14" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0011" x="1933" y="652" width="108" height="69" frameX="-35" frameY="-14" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0012" x="182" y="1096" width="106" height="70" frameX="-37" frameY="-13" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0013" x="413" y="1183" width="104" height="70" frameX="-39" frameY="-13" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0014" x="1945" y="422" width="101" height="71" frameX="-42" frameY="-13" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0015" x="518" y="1193" width="99" height="71" frameX="-44" frameY="-13" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0016" x="1589" y="1200" width="97" height="71" frameX="-46" frameY="-13" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0017" x="618" y="1239" width="95" height="71" frameX="-48" frameY="-13" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0018" x="1921" y="1246" width="93" height="71" frameX="-50" frameY="-13" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0019" x="1" y="1250" width="91" height="70" frameX="-52" frameY="-13" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0020" x="1309" y="1248" width="93" height="71" frameX="-50" frameY="-10" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0021" x="714" y="1239" width="95" height="71" frameX="-48" frameY="-7" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0022" x="1687" y="1200" width="97" height="71" frameX="-46" frameY="-5" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0023" x="1209" y="1196" width="99" height="71" frameX="-44" frameY="-2" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0024" x="1945" y="494" width="101" height="70" frameX="-42" frameY="0" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0025" x="302" y="1183" width="110" height="67" frameX="-33" frameY="-2" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0026" x="182" y="1167" width="119" height="62" frameX="-24" frameY="-5" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0027" x="1833" y="1188" width="128" height="57" frameX="-15" frameY="-8" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0028" x="1785" y="1246" width="135" height="49" frameX="-8" frameY="-12" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0029" x="1586" y="1272" width="143" height="44" frameX="0" frameY="-15" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0030" x="810" y="1280" width="142" height="44" frameX="-1" frameY="-16" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0031" x="1163" y="1268" width="141" height="45" frameX="-2" frameY="-16" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0032" x="418" y="1265" width="140" height="46" frameX="-3" frameY="-16" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0033" x="278" y="1254" width="139" height="47" frameX="-4" frameY="-17" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0034" x="1446" y="1245" width="139" height="48" frameX="-4" frameY="-17" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0035" x="1" y="1199" width="138" height="50" frameX="-5" frameY="-17" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0036" x="140" y="1230" width="137" height="50" frameX="-6" frameY="-18" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0037" x="1309" y="1196" width="136" height="51" frameX="-7" frameY="-18" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0038" x="1453" y="1191" width="135" height="53" frameX="-8" frameY="-18" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0039" x="1074" y="1189" width="134" height="54" frameX="-9" frameY="-18" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit 1 walking leg forward0040" x="708" y="1183" width="133" height="55" frameX="-10" frameY="-19" frameWidth="143" frameHeight="84"/>
+	<SubTexture name="Sider unit10000" x="487" y="439" width="238" height="146" pivotX="127.55" pivotY="57.5" frameX="-9" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10001" x="726" y="442" width="234" height="143" frameX="-11" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10002" x="240" y="583" width="230" height="141" frameX="-13" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10003" x="471" y="586" width="224" height="139" frameX="-16" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10004" x="1" y="600" width="220" height="140" frameX="-18" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10005" x="1409" y="724" width="216" height="141" frameX="-20" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10006" x="222" y="725" width="210" height="142" frameX="-23" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10007" x="1626" y="725" width="208" height="143" frameX="-24" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10008" x="961" y="583" width="226" height="143" frameX="-15" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10009" x="244" y="438" width="242" height="144" frameX="-7" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10010" x="404" y="1" width="256" height="144" frameX="0" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10011" x="661" y="1" width="254" height="145" frameX="-1" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10012" x="1426" y="1" width="252" height="145" frameX="-2" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10013" x="916" y="1" width="252" height="146" frameX="-2" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10014" x="1679" y="1" width="250" height="146" frameX="-3" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10015" x="910" y="148" width="248" height="146" frameX="-4" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10016" x="1" y="167" width="246" height="146" frameX="-5" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10017" x="248" y="291" width="244" height="146" frameX="-6" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10018" x="1406" y="293" width="242" height="146" frameX="-7" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10019" x="1649" y="294" width="242" height="146" frameX="-7" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10020" x="1465" y="441" width="240" height="143" frameX="-8" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10021" x="1706" y="441" width="238" height="141" frameX="-9" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10022" x="1" y="461" width="238" height="138" frameX="-9" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10023" x="1188" y="583" width="234" height="137" frameX="-11" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10024" x="1423" y="585" width="230" height="138" frameX="-13" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10025" x="696" y="586" width="224" height="139" frameX="-16" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10026" x="1188" y="721" width="220" height="140" frameX="-18" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10027" x="1706" y="583" width="226" height="141" frameX="-15" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10028" x="1222" y="440" width="242" height="142" frameX="-7" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10029" x="1169" y="1" width="256" height="143" frameX="0" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10030" x="1169" y="145" width="254" height="143" frameX="-1" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10031" x="404" y="146" width="252" height="144" frameX="-2" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10032" x="657" y="147" width="252" height="144" frameX="-2" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10033" x="1424" y="147" width="250" height="145" frameX="-3" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10034" x="1675" y="148" width="248" height="145" frameX="-4" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10035" x="1159" y="289" width="246" height="146" frameX="-5" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10036" x="493" y="292" width="244" height="146" frameX="-6" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10037" x="738" y="295" width="242" height="146" frameX="-7" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10038" x="1" y="314" width="242" height="146" frameX="-7" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit10039" x="981" y="436" width="240" height="146" frameX="-8" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="rod 10000" x="1962" y="1188" width="65" height="16" pivotX="32" pivotY="8"/>
+	<SubTexture name="rod 1-010000" x="618" y="1193" width="65" height="16" pivotX="32" pivotY="8"/>
+	<SubTexture name="rod 1-020000" x="981" y="418" width="65" height="17" pivotX="32" pivotY="8"/>
+	<SubTexture name="rod 1-030000" x="1047" y="418" width="65" height="17" pivotX="32" pivotY="8"/>
+	<SubTexture name="rod 1-040000" x="1945" y="565" width="65" height="17" pivotX="32" pivotY="8"/>
+	<SubTexture name="rod 20000" x="1962" y="1205" width="65" height="16" pivotX="32" pivotY="8"/>
+	<SubTexture name="rod 2-010000" x="1747" y="1044" width="64" height="17" pivotX="32" pivotY="8"/>
+	<SubTexture name="rod 2-020000" x="353" y="868" width="65" height="17" pivotX="32" pivotY="8"/>
+	<SubTexture name="rod 2-030000" x="353" y="886" width="65" height="17" pivotX="32" pivotY="8"/>
+	<SubTexture name="rod 2-040000" x="353" y="904" width="65" height="17" pivotX="32" pivotY="8"/>
+	<SubTexture name="rod 30000" x="618" y="1210" width="65" height="16" pivotX="32" pivotY="8"/>
+	<SubTexture name="rod 3-010000" x="353" y="922" width="65" height="17" pivotX="32" pivotY="8"/>
+	<SubTexture name="rod 3-020000" x="353" y="940" width="65" height="17" pivotX="32" pivotY="8"/>
+	<SubTexture name="rod 3-030000" x="1962" y="1222" width="65" height="16" pivotX="32" pivotY="8"/>
+	<SubTexture name="rod 3-040000" x="1747" y="1062" width="64" height="17" pivotX="32" pivotY="8"/>
+	<SubTexture name="screw 10000" x="174" y="774" width="32" height="32" pivotX="16" pivotY="16"/>
+	<SubTexture name="screw 100000" x="2006" y="354" width="33" height="32" pivotX="15.9" pivotY="16"/>
+	<SubTexture name="screw 110000" x="2006" y="387" width="33" height="32" pivotX="15.9" pivotY="16"/>
+	<SubTexture name="screw 120000" x="2008" y="788" width="32" height="32" pivotX="15.9" pivotY="16"/>
+	<SubTexture name="screw 130000" x="921" y="586" width="33" height="32" pivotX="15.9" pivotY="16"/>
+	<SubTexture name="screw 140000" x="921" y="619" width="33" height="32" pivotX="15.9" pivotY="16"/>
+	<SubTexture name="screw 150000" x="921" y="652" width="33" height="32" pivotX="16" pivotY="16"/>
+	<SubTexture name="screw 20000" x="1654" y="682" width="33" height="32" pivotX="16" pivotY="16"/>
+	<SubTexture name="screw 30000" x="921" y="685" width="33" height="32" pivotX="16" pivotY="16"/>
+	<SubTexture name="screw 40000" x="2008" y="722" width="33" height="32" pivotX="16" pivotY="16"/>
+	<SubTexture name="screw 50000" x="174" y="741" width="33" height="32" pivotX="15.95" pivotY="16"/>
+	<SubTexture name="screw 60000" x="174" y="807" width="32" height="32" pivotX="15.9" pivotY="16"/>
+	<SubTexture name="screw 70000" x="1125" y="817" width="32" height="32" pivotX="15.9" pivotY="16"/>
+	<SubTexture name="screw 80000" x="2008" y="755" width="33" height="32" pivotX="15.9" pivotY="16"/>
+	<SubTexture name="screw 90000" x="2008" y="821" width="32" height="32" pivotX="15.9" pivotY="16"/>
+	<SubTexture name="segment 02-010000" x="1125" y="788" width="55" height="28" pivotX="40" pivotY="14"/>
+	<SubTexture name="segment 03-010000" x="1990" y="970" width="51" height="20" pivotX="40" pivotY="10"/>
+	<SubTexture name="segment 04-010000" x="1125" y="727" width="44" height="60" pivotX="34" pivotY="19.05"/>
+	<SubTexture name="segment10000" x="374" y="167" width="20" height="34" pivotX="9.45" pivotY="16.15"/>
+	<SubTexture name="segment20000" x="1665" y="1044" width="81" height="28" pivotX="74.8" pivotY="14.1"/>
+	<SubTexture name="segment30000" x="1074" y="1244" width="88" height="76" pivotX="80.7" pivotY="27.25"/>
+	<SubTexture name="segment40000" x="1654" y="585" width="32" height="96" pivotX="25.55" pivotY="61.25"/>
+	<SubTexture name="spider enemy10000" x="1" y="1" width="402" height="165" pivotX="200.55" pivotY="166.95"/>
+	<SubTexture name="spider enemy10001" x="1" y="1" width="402" height="165"/>
+	<SubTexture name="walking leg front0000" x="1095" y="982" width="190" height="104" pivotX="171.25" pivotY="68.25" frameX="0" frameY="-26" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0001" x="537" y="970" width="188" height="106" frameX="-2" frameY="-25" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0002" x="908" y="970" width="186" height="107" frameX="-4" frameY="-24" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0003" x="353" y="970" width="183" height="109" frameX="-7" frameY="-23" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0004" x="726" y="970" width="181" height="110" frameX="-9" frameY="-22" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0005" x="173" y="868" width="179" height="112" frameX="-11" frameY="-21" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0006" x="1468" y="869" width="177" height="113" frameX="-13" frameY="-20" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0007" x="173" y="981" width="174" height="114" frameX="-16" frameY="-19" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0008" x="1646" y="869" width="172" height="116" frameX="-18" frameY="-18" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0009" x="1" y="983" width="170" height="116" frameX="-20" frameY="-18" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0010" x="1819" y="970" width="170" height="117" frameX="-20" frameY="-17" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0011" x="1296" y="866" width="171" height="118" frameX="-19" frameY="-16" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0012" x="1124" y="862" width="171" height="119" frameX="-19" frameY="-15" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0013" x="952" y="849" width="171" height="120" frameX="-19" frameY="-14" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0014" x="433" y="849" width="172" height="120" frameX="-18" frameY="-13" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0015" x="606" y="726" width="172" height="121" frameX="-18" frameY="-12" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0016" x="779" y="726" width="172" height="121" frameX="-18" frameY="-12" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0017" x="952" y="727" width="172" height="121" frameX="-18" frameY="-11" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0018" x="1" y="741" width="172" height="121" frameX="-18" frameY="-10" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0019" x="981" y="295" width="172" height="122" frameX="-18" frameY="-9" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0020" x="606" y="848" width="172" height="121" frameX="-18" frameY="-9" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0021" x="1835" y="725" width="172" height="122" frameX="-18" frameY="-8" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0022" x="779" y="848" width="172" height="121" frameX="-18" frameY="-8" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0023" x="433" y="726" width="172" height="122" frameX="-18" frameY="-7" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0024" x="1835" y="848" width="172" height="121" frameX="-18" frameY="-7" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0025" x="1" y="863" width="171" height="119" frameX="-19" frameY="-5" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0026" x="537" y="1077" width="170" height="115" frameX="-20" frameY="-4" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0027" x="1665" y="1088" width="167" height="111" frameX="-23" frameY="-2" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0028" x="1280" y="1090" width="172" height="105" frameX="-18" frameY="-1" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0029" x="894" y="1181" width="179" height="98" frameX="-11" frameY="0" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0030" x="1" y="1100" width="180" height="98" frameX="-10" frameY="-3" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0031" x="1453" y="1091" width="182" height="99" frameX="-8" frameY="-5" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0032" x="1833" y="1088" width="183" height="99" frameX="-7" frameY="-8" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0033" x="1095" y="1087" width="184" height="101" frameX="-6" frameY="-10" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0034" x="708" y="1081" width="185" height="101" frameX="-5" frameY="-13" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0035" x="908" y="1078" width="186" height="102" frameX="-4" frameY="-15" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0036" x="348" y="1080" width="187" height="102" frameX="-3" frameY="-18" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0037" x="1476" y="986" width="188" height="104" frameX="-2" frameY="-20" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0038" x="1286" y="985" width="189" height="104" frameX="-1" frameY="-23" frameWidth="190" frameHeight="134"/>
+	<SubTexture name="walking leg front0039" x="1095" y="982" width="190" height="104" frameX="0" frameY="-26" frameWidth="190" frameHeight="134"/>
+</TextureAtlas>

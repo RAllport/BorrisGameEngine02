@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="Environment.png">
+	<SubTexture name="industrial platforn 1-1-10000" x="448" y="384" width="64" height="16"/>
+	<SubTexture name="industrial platforn 1-1-100000" x="0" y="448" width="64" height="32"/>
+	<SubTexture name="industrial platforn 1-1-110000" x="64" y="448" width="64" height="32"/>
+	<SubTexture name="industrial platforn 1-1-120000" x="128" y="448" width="64" height="64"/>
+	<SubTexture name="industrial platforn 1-1-130000" x="192" y="448" width="64" height="64"/>
+	<SubTexture name="industrial platforn 1-1-140000" x="256" y="448" width="64" height="16"/>
+	<SubTexture name="industrial platforn 1-1-150000" x="320" y="448" width="64" height="16"/>
+	<SubTexture name="industrial platforn 1-1-160000" x="384" y="448" width="16" height="64"/>
+	<SubTexture name="industrial platforn 1-1-170000" x="400" y="448" width="16" height="64"/>
+	<SubTexture name="industrial platforn 1-1-20000" x="416" y="448" width="16" height="64"/>
+	<SubTexture name="industrial platforn 1-1-30000" x="432" y="448" width="16" height="64"/>
+	<SubTexture name="industrial platforn 1-1-40000" x="448" y="448" width="64" height="64"/>
+	<SubTexture name="industrial platforn 1-1-50000" x="0" y="512" width="64" height="64"/>
+	<SubTexture name="industrial platforn 1-1-60000" x="64" y="512" width="64" height="64"/>
+	<SubTexture name="industrial platforn 1-1-70000" x="128" y="512" width="64" height="64"/>
+	<SubTexture name="industrial platforn 1-1-80000" x="192" y="512" width="64" height="41"/>
+	<SubTexture name="industrial platforn 1-1-90000" x="256" y="512" width="64" height="41"/>
+	<SubTexture name="industrial platforn 1-10-10000" x="320" y="512" width="64" height="16"/>
+	<SubTexture name="industrial platforn 1-11-10000" x="384" y="512" width="64" height="16"/>
+	<SubTexture name="industrial platforn 1-12-10000" x="448" y="512" width="64" height="16"/>
+	<SubTexture name="industrial platforn 1-2-10000" x="0" y="576" width="64" height="16"/>
+	<SubTexture name="industrial platforn 1-2-100000" x="64" y="576" width="64" height="32"/>
+	<SubTexture name="industrial platforn 1-2-110000" x="128" y="576" width="64" height="32"/>
+	<SubTexture name="industrial platforn 1-2-120000" x="192" y="576" width="64" height="64"/>
+	<SubTexture name="industrial platforn 1-2-130000" x="256" y="576" width="64" height="64"/>
+	<SubTexture name="industrial platforn 1-2-140000" x="320" y="576" width="64" height="16"/>
+	<SubTexture name="industrial platforn 1-2-150000" x="384" y="576" width="64" height="16"/>
+	<SubTexture name="industrial platforn 1-2-160000" x="448" y="576" width="16" height="64"/>
+	<SubTexture name="industrial platforn 1-2-170000" x="464" y="576" width="16" height="64"/>
+	<SubTexture name="industrial platforn 1-2-20000" x="480" y="576" width="16" height="64"/>
+	<SubTexture name="industrial platforn 1-2-30000" x="496" y="576" width="16" height="64"/>
+	<SubTexture name="industrial platforn 1-2-40000" x="0" y="640" width="64" height="64"/>
+	<SubTexture name="industrial platforn 1-2-50000" x="64" y="640" width="64" height="64"/>
+	<SubTexture name="industrial platforn 1-2-60000" x="128" y="640" width="64" height="64"/>
+	<SubTexture name="industrial platforn 1-2-70000" x="192" y="640" width="64" height="64"/>
+	<SubTexture name="industrial platforn 1-2-80000" x="256" y="640" width="64" height="41"/>
+	<SubTexture name="industrial platforn 1-2-90000" x="320" y="640" width="64" height="41"/>
+	<SubTexture name="industrial platforn 1-3-10000" x="384" y="640" width="64" height="16"/>
+	<SubTexture name="industrial platforn 1-3-120000" x="448" y="640" width="64" height="64"/>
+	<SubTexture name="industrial platforn 1-3-130000" x="0" y="704" width="64" height="64"/>
+	<SubTexture name="industrial platforn 1-3-140000" x="64" y="704" width="64" height="16"/>
+	<SubTexture name="industrial platforn 1-3-150000" x="128" y="704" width="64" height="16"/>
+	<SubTexture name="industrial platforn 1-3-160000" x="192" y="704" width="16" height="64"/>
+	<SubTexture name="industrial platforn 1-3-170000" x="208" y="704" width="16" height="64"/>
+	<SubTexture name="industrial platforn 1-3-20000" x="224" y="704" width="16" height="64"/>
+	<SubTexture name="industrial platforn 1-3-30000" x="240" y="704" width="16" height="64"/>
+	<SubTexture name="industrial platforn 1-3-40000" x="256" y="704" width="64" height="64"/>
+	<SubTexture name="industrial platforn 1-3-50000" x="320" y="704" width="64" height="64"/>
+	<SubTexture name="industrial platforn 1-4-10000" x="384" y="704" width="64" height="16"/>
+	<SubTexture name="industrial platforn 1-5-10000" x="448" y="704" width="64" height="16"/>
+	<SubTexture name="industrial platforn 1-6-10000" x="0" y="768" width="64" height="16"/>
+	<SubTexture name="industrial platforn 1-7-10000" x="64" y="768" width="64" height="16"/>
+	<SubTexture name="industrial platforn 1-8-10000" x="128" y="768" width="64" height="16"/>
+	<SubTexture name="industrial platforn 1-9-10000" x="192" y="768" width="64" height="16"/>
+	<SubTexture name="industrial platforn 2-10000" x="256" y="768" width="64" height="32"/>
+	<SubTexture name="industrial platforn 2-100000" x="320" y="768" width="64" height="32"/>
+	<SubTexture name="industrial platforn 2-110000" x="384" y="768" width="64" height="32"/>
+	<SubTexture name="industrial platforn 2-120000" x="448" y="768" width="64" height="32"/>
+	<SubTexture name="industrial platforn 2-20000" x="0" y="800" width="64" height="32"/>
+	<SubTexture name="industrial platforn 2-30000" x="64" y="800" width="64" height="32"/>
+	<SubTexture name="industrial platforn 2-40000" x="128" y="800" width="64" height="32"/>
+	<SubTexture name="industrial platforn 2-50000" x="192" y="800" width="64" height="32"/>
+	<SubTexture name="industrial platforn 2-60000" x="256" y="800" width="64" height="32"/>
+	<SubTexture name="industrial platforn 2-70000" x="320" y="800" width="64" height="32"/>
+	<SubTexture name="industrial platforn 2-80000" x="384" y="800" width="64" height="32"/>
+	<SubTexture name="industrial platforn 2-90000" x="448" y="800" width="64" height="32"/>
+	<SubTexture name="industrial platforn 3-10000" x="0" y="832" width="64" height="32"/>
+	<SubTexture name="industrial platforn 3-110000" x="64" y="832" width="64" height="32"/>
+	<SubTexture name="industrial platforn 3-40000" x="128" y="832" width="64" height="32"/>
+	<SubTexture name="industrial platforn 3-50000" x="192" y="832" width="64" height="32"/>
+	<SubTexture name="industrial platforn 3-70000" x="256" y="832" width="64" height="32"/>
+	<SubTexture name="industrial platforn 4-10000" x="320" y="832" width="64" height="32"/>
+	<SubTexture name="industrial platforn 4-110000" x="384" y="832" width="64" height="32"/>
+	<SubTexture name="industrial platforn 4-40000" x="448" y="832" width="64" height="32"/>
+	<SubTexture name="industrial platforn 4-50000" x="0" y="864" width="64" height="32"/>
+	<SubTexture name="industrial platforn 4-70000" x="64" y="864" width="64" height="32"/>
+	<SubTexture name="industrial tile back 1-01-010000" x="0" y="0" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-01-020000" x="64" y="0" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-01-030000" x="128" y="0" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-01-040000" x="192" y="0" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-01-050000" x="256" y="0" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-01-060000" x="320" y="0" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-01-070000" x="384" y="0" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-01-080000" x="448" y="0" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-01-090000" x="0" y="64" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-01-100000" x="64" y="64" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-01-110000" x="128" y="64" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-01-120000" x="192" y="64" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-01-130000" x="256" y="64" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-01-140000" x="320" y="64" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-01-150000" x="384" y="64" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-01-160000" x="448" y="64" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-01-170000" x="0" y="128" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-01-180000" x="64" y="128" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-01-190000" x="128" y="128" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-01-200000" x="192" y="128" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-01-210000" x="256" y="128" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-01-220000" x="320" y="128" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-01-230000" x="384" y="128" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-04-010000" x="448" y="128" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-05-010000" x="0" y="192" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-06-010000" x="64" y="192" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-07-010000" x="128" y="192" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-08-010000" x="192" y="192" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-09-010000" x="256" y="192" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-10-010000" x="320" y="192" width="64" height="32"/>
+	<SubTexture name="industrial tile back 1-11-010000" x="384" y="192" width="64" height="32"/>
+	<SubTexture name="industrial tile back 1-12-010000" x="448" y="192" width="64" height="64"/>
+	<SubTexture name="industrial tile back 1-13-010000" x="0" y="256" width="64" height="64"/>
+	<SubTexture name="industrial tile back 2-01-010000" x="64" y="256" width="64" height="64"/>
+	<SubTexture name="industrial tile back 2-04-010000" x="128" y="256" width="64" height="64"/>
+	<SubTexture name="industrial tile back 2-05-010000" x="192" y="256" width="64" height="64"/>
+	<SubTexture name="industrial tile back 2-06-010000" x="256" y="256" width="64" height="64"/>
+	<SubTexture name="industrial tile back 2-07-010000" x="320" y="256" width="64" height="64"/>
+	<SubTexture name="industrial tile back 2-08-010000" x="384" y="256" width="64" height="64"/>
+	<SubTexture name="industrial tile back 2-09-010000" x="448" y="256" width="64" height="64"/>
+	<SubTexture name="industrial tile back 2-10-010000" x="0" y="320" width="64" height="32"/>
+	<SubTexture name="industrial tile back 2-11-010000" x="64" y="320" width="64" height="32"/>
+	<SubTexture name="industrial tile back 2-12-010000" x="128" y="320" width="64" height="64"/>
+	<SubTexture name="industrial tile back 2-13-010000" x="192" y="320" width="64" height="64"/>
+	<SubTexture name="industrial tile back 3-01-010000" x="256" y="320" width="64" height="64"/>
+	<SubTexture name="industrial tile back 3-04-010000" x="320" y="320" width="64" height="64"/>
+	<SubTexture name="industrial tile back 3-05-010000" x="384" y="320" width="64" height="64"/>
+	<SubTexture name="industrial tile back 3-06-010000" x="448" y="320" width="64" height="64"/>
+	<SubTexture name="industrial tile back 3-07-010000" x="0" y="384" width="64" height="64"/>
+	<SubTexture name="industrial tile back 3-08-010000" x="64" y="384" width="64" height="64"/>
+	<SubTexture name="industrial tile back 3-09-010000" x="128" y="384" width="64" height="64"/>
+	<SubTexture name="industrial tile back 3-10-010000" x="192" y="384" width="64" height="32"/>
+	<SubTexture name="industrial tile back 3-11-010000" x="256" y="384" width="64" height="32"/>
+	<SubTexture name="industrial tile back 3-12-010000" x="320" y="384" width="64" height="64"/>
+	<SubTexture name="industrial tile back 3-12-01 copy0000" x="384" y="384" width="64" height="64"/>
+</TextureAtlas>

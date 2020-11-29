@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="Main Char sprites.png">
+	<SubTexture name="Assault pulser0000" x="0" y="0" width="84" height="30" pivotX="41.3" pivotY="14.7"/>
+	<SubTexture name="Booster0000" x="86" y="0" width="55" height="40" pivotX="-31.5" pivotY="9.75" frameX="0" frameY="-9" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="Booster0001" x="143" y="0" width="55" height="40" frameX="0" frameY="-9" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="Booster0002" x="200" y="0" width="51" height="41" frameX="-2" frameY="-8" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="Booster0003" x="253" y="0" width="49" height="46" frameX="-2" frameY="-7" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="Booster0004" x="304" y="0" width="45" height="59" frameX="-2" frameY="0" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="Booster0005" x="351" y="0" width="47" height="57" frameX="-2" frameY="-2" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="Booster0006" x="400" y="0" width="48" height="55" frameX="-2" frameY="-4" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="Booster0007" x="450" y="0" width="49" height="53" frameX="-2" frameY="-6" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="Booster0008" x="501" y="0" width="49" height="53" frameX="-2" frameY="-6" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="Booster0009" x="552" y="0" width="49" height="53" frameX="-2" frameY="-6" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="Fusion Blaster0000" x="603" y="0" width="110" height="52" pivotX="54.6" pivotY="25.9"/>
+	<SubTexture name="Pulse Pistol0000" x="715" y="0" width="52" height="24" pivotX="25.9" pivotY="11.9"/>
+	<SubTexture name="arms back0000" x="769" y="0" width="59" height="19" pivotX="5.15" pivotY="20.8" frameX="0" frameY="-14" frameWidth="59" frameHeight="39"/>
+	<SubTexture name="arms back0001" x="830" y="0" width="59" height="19" frameX="0" frameY="-14" frameWidth="59" frameHeight="39"/>
+	<SubTexture name="arms back0002" x="891" y="0" width="59" height="19" frameX="0" frameY="-14" frameWidth="59" frameHeight="39"/>
+	<SubTexture name="arms back0003" x="952" y="0" width="58" height="23" frameX="0" frameY="-14" frameWidth="59" frameHeight="39"/>
+	<SubTexture name="arms back0004" x="1012" y="0" width="58" height="24" frameX="0" frameY="-14" frameWidth="59" frameHeight="39"/>
+	<SubTexture name="arms back0005" x="1072" y="0" width="58" height="24" frameX="0" frameY="-14" frameWidth="59" frameHeight="39"/>
+	<SubTexture name="arms back0006" x="1132" y="0" width="47" height="37" frameX="0" frameY="-2" frameWidth="59" frameHeight="39"/>
+	<SubTexture name="arms back0007" x="1181" y="0" width="57" height="23" frameX="0" frameY="-14" frameWidth="59" frameHeight="39"/>
+	<SubTexture name="arms back0008" x="1240" y="0" width="56" height="29" frameX="0" frameY="0" frameWidth="59" frameHeight="39"/>
+	<SubTexture name="arms front 0000" x="1298" y="0" width="101" height="27" pivotX="38.15" pivotY="45.6" frameX="-33" frameY="-32" frameWidth="184" frameHeight="88"/>
+	<SubTexture name="arms front 0001" x="1401" y="0" width="92" height="30" frameX="-33" frameY="-28" frameWidth="184" frameHeight="88"/>
+	<SubTexture name="arms front 0002" x="1495" y="0" width="86" height="48" frameX="-32" frameY="-26" frameWidth="184" frameHeight="88"/>
+	<SubTexture name="arms front 0003" x="1583" y="0" width="86" height="46" frameX="-32" frameY="-33" frameWidth="184" frameHeight="88"/>
+	<SubTexture name="arms front 0004" x="1671" y="0" width="155" height="53" frameX="-29" frameY="-29" frameWidth="184" frameHeight="88"/>
+	<SubTexture name="arms front 0005" x="1828" y="0" width="86" height="39" frameX="-32" frameY="-38" frameWidth="184" frameHeight="88"/>
+	<SubTexture name="arms front 0006" x="1916" y="0" width="109" height="62" frameX="-23" frameY="-11" frameWidth="184" frameHeight="88"/>
+	<SubTexture name="arms front 0007" x="0" y="64" width="123" height="48" frameX="-27" frameY="-40" frameWidth="184" frameHeight="88"/>
+	<SubTexture name="arms front 0008" x="125" y="64" width="109" height="68" frameX="0" frameY="0" frameWidth="184" frameHeight="88"/>
+	<SubTexture name="arms0000" x="236" y="64" width="102" height="26" pivotX="38.15" pivotY="45.6" frameX="-33" frameY="-33" frameWidth="185" frameHeight="89"/>
+	<SubTexture name="arms0001" x="340" y="64" width="93" height="30" frameX="-33" frameY="-29" frameWidth="185" frameHeight="89"/>
+	<SubTexture name="arms0002" x="435" y="64" width="86" height="48" frameX="-33" frameY="-27" frameWidth="185" frameHeight="89"/>
+	<SubTexture name="arms0003" x="523" y="64" width="86" height="46" frameX="-33" frameY="-34" frameWidth="185" frameHeight="89"/>
+	<SubTexture name="arms0004" x="611" y="64" width="156" height="52" frameX="-29" frameY="-30" frameWidth="185" frameHeight="89"/>
+	<SubTexture name="arms0005" x="769" y="64" width="86" height="39" frameX="-33" frameY="-39" frameWidth="185" frameHeight="89"/>
+	<SubTexture name="arms0006" x="857" y="64" width="109" height="61" frameX="-23" frameY="-12" frameWidth="185" frameHeight="89"/>
+	<SubTexture name="arms0007" x="968" y="64" width="123" height="49" frameX="-28" frameY="-40" frameWidth="185" frameHeight="89"/>
+	<SubTexture name="arms0008" x="1093" y="64" width="109" height="68" frameX="0" frameY="0" frameWidth="185" frameHeight="89"/>
+	<SubTexture name="balls protecter blue0000" x="1204" y="64" width="16" height="16" pivotX="7.05" pivotY="2.5"/>
+	<SubTexture name="belt0000" x="1222" y="64" width="18" height="8" pivotX="8.15" pivotY="4.85"/>
+	<SubTexture name="black piece0000" x="1242" y="64" width="15" height="6" pivotX="6.95" pivotY="2.7"/>
+	<SubTexture name="dashing blue backwards0000" x="1259" y="64" width="44" height="126" pivotX="32.95" pivotY="123.4" frameX="-2" frameY="0" frameWidth="72" frameHeight="126"/>
+	<SubTexture name="dashing blue backwards0001" x="1305" y="64" width="44" height="125" frameX="-3" frameY="0" frameWidth="72" frameHeight="126"/>
+	<SubTexture name="dashing blue backwards0002" x="1351" y="64" width="46" height="124" frameX="-3" frameY="-1" frameWidth="72" frameHeight="126"/>
+	<SubTexture name="dashing blue backwards0003" x="1399" y="64" width="51" height="123" frameX="-4" frameY="-2" frameWidth="72" frameHeight="126"/>
+	<SubTexture name="dashing blue backwards0004" x="1452" y="64" width="51" height="123" frameX="-4" frameY="-2" frameWidth="72" frameHeight="126"/>
+	<SubTexture name="dashing blue backwards0005" x="1505" y="64" width="51" height="123" frameX="-4" frameY="-2" frameWidth="72" frameHeight="126"/>
+	<SubTexture name="dashing blue backwards0006" x="1558" y="64" width="57" height="120" frameX="-4" frameY="-5" frameWidth="72" frameHeight="126"/>
+	<SubTexture name="dashing blue backwards0007" x="1617" y="64" width="72" height="118" frameX="0" frameY="-8" frameWidth="72" frameHeight="126"/>
+	<SubTexture name="dashing blue backwards0008" x="1691" y="64" width="63" height="120" frameX="-1" frameY="-5" frameWidth="72" frameHeight="126"/>
+	<SubTexture name="dashing blue backwards0009" x="1756" y="64" width="53" height="123" frameX="-2" frameY="-2" frameWidth="72" frameHeight="126"/>
+	<SubTexture name="dashing blue backwards0010" x="1811" y="64" width="44" height="126" frameX="-2" frameY="0" frameWidth="72" frameHeight="126"/>
+	<SubTexture name="dashing blue forwards0000" x="1857" y="64" width="44" height="126" pivotX="73.5" pivotY="123.4" frameX="-43" frameY="0" frameWidth="113" frameHeight="126"/>
+	<SubTexture name="dashing blue forwards0001" x="1903" y="64" width="46" height="125" frameX="-29" frameY="-1" frameWidth="113" frameHeight="126"/>
+	<SubTexture name="dashing blue forwards0002" x="1951" y="64" width="62" height="124" frameX="-15" frameY="-1" frameWidth="113" frameHeight="126"/>
+	<SubTexture name="dashing blue forwards0003" x="0" y="192" width="79" height="116" frameX="0" frameY="-2" frameWidth="113" frameHeight="126"/>
+	<SubTexture name="dashing blue forwards0004" x="81" y="192" width="79" height="116" frameX="0" frameY="-2" frameWidth="113" frameHeight="126"/>
+	<SubTexture name="dashing blue forwards0005" x="162" y="192" width="79" height="116" frameX="0" frameY="-2" frameWidth="113" frameHeight="126"/>
+	<SubTexture name="dashing blue forwards0006" x="243" y="192" width="63" height="118" frameX="-16" frameY="-4" frameWidth="113" frameHeight="126"/>
+	<SubTexture name="dashing blue forwards0007" x="308" y="192" width="60" height="119" frameX="-30" frameY="-6" frameWidth="113" frameHeight="126"/>
+	<SubTexture name="dashing blue forwards0008" x="370" y="192" width="72" height="118" frameX="-41" frameY="-8" frameWidth="113" frameHeight="126"/>
+	<SubTexture name="dashing blue forwards0009" x="444" y="192" width="62" height="121" frameX="-42" frameY="-5" frameWidth="113" frameHeight="126"/>
+	<SubTexture name="dashing blue forwards0010" x="508" y="192" width="53" height="122" frameX="-43" frameY="-3" frameWidth="113" frameHeight="126"/>
+	<SubTexture name="dashing blue forwards0011" x="563" y="192" width="44" height="126" frameX="-43" frameY="0" frameWidth="113" frameHeight="126"/>
+	<SubTexture name="ducking blue0000" x="609" y="192" width="45" height="126" pivotX="57.4" pivotY="123.4" frameX="-26" frameY="0" frameWidth="71" frameHeight="126"/>
+	<SubTexture name="ducking blue0001" x="656" y="192" width="45" height="121" frameX="-24" frameY="0" frameWidth="71" frameHeight="126"/>
+	<SubTexture name="ducking blue0002" x="703" y="192" width="49" height="116" frameX="-19" frameY="0" frameWidth="71" frameHeight="126"/>
+	<SubTexture name="ducking blue0003" x="754" y="192" width="52" height="111" frameX="-14" frameY="-1" frameWidth="71" frameHeight="126"/>
+	<SubTexture name="ducking blue0004" x="808" y="192" width="56" height="107" frameX="-9" frameY="-1" frameWidth="71" frameHeight="126"/>
+	<SubTexture name="ducking blue0005" x="866" y="192" width="60" height="101" frameX="-4" frameY="-2" frameWidth="71" frameHeight="126"/>
+	<SubTexture name="ducking blue0006" x="928" y="192" width="62" height="97" frameX="0" frameY="-2" frameWidth="71" frameHeight="126"/>
+	<SubTexture name="fission rocket launcher0000" x="992" y="192" width="109" height="44" pivotX="53.9" pivotY="21.7"/>
+	<SubTexture name="fist back0000" x="1103" y="192" width="17" height="13" pivotX="6.15" pivotY="1.05"/>
+	<SubTexture name="fist front 0000" x="1122" y="192" width="16" height="15" pivotX="5.8" pivotY="1.05"/>
+	<SubTexture name="flux railgun0000" x="1140" y="192" width="154" height="38" pivotX="54.6" pivotY="16.1"/>
+	<SubTexture name="full torso blue0000" x="1296" y="192" width="30" height="58" pivotX="25.95" pivotY="111.15"/>
+	<SubTexture name="fusion rocket0000" x="1328" y="192" width="60" height="14" pivotX="26" pivotY="7"/>
+	<SubTexture name="grapling arm0000" x="1390" y="192" width="73" height="38" pivotX="5.2" pivotY="8.65"/>
+	<SubTexture name="grapling hook0000" x="1465" y="192" width="17" height="15" pivotX="2.85" pivotY="5.75"/>
+	<SubTexture name="grapling lightening0000" x="1484" y="192" width="20" height="5" pivotX="0.55" pivotY="3.2" frameX="0" frameY="0" frameWidth="20" frameHeight="6"/>
+	<SubTexture name="grapling lightening0001" x="1506" y="192" width="19" height="5" frameX="0" frameY="0" frameWidth="20" frameHeight="6"/>
+	<SubTexture name="grapling lightening0002" x="1527" y="192" width="18" height="5" frameX="-1" frameY="0" frameWidth="20" frameHeight="6"/>
+	<SubTexture name="grapling lightening0003" x="1547" y="192" width="19" height="4" frameX="-1" frameY="0" frameWidth="20" frameHeight="6"/>
+	<SubTexture name="grapling lightening0004" x="1568" y="192" width="19" height="3" frameX="-1" frameY="-1" frameWidth="20" frameHeight="6"/>
+	<SubTexture name="grapling lightening0005" x="1589" y="192" width="18" height="4" frameX="-1" frameY="0" frameWidth="20" frameHeight="6"/>
+	<SubTexture name="grapling lightening0006" x="1609" y="192" width="19" height="4" frameX="0" frameY="-1" frameWidth="20" frameHeight="6"/>
+	<SubTexture name="grapling lightening0007" x="1630" y="192" width="19" height="4" frameX="0" frameY="-2" frameWidth="20" frameHeight="6"/>
+	<SubTexture name="grapling lightening0008" x="1651" y="192" width="19" height="5" frameX="0" frameY="-1" frameWidth="20" frameHeight="6"/>
+	<SubTexture name="grapling lightening0009" x="1672" y="192" width="19" height="5" frameX="0" frameY="-1" frameWidth="20" frameHeight="6"/>
+	<SubTexture name="grapling lightening0010" x="1693" y="192" width="19" height="4" frameX="0" frameY="-1" frameWidth="20" frameHeight="6"/>
+	<SubTexture name="grapling lightening0011" x="1714" y="192" width="19" height="5" frameX="0" frameY="-1" frameWidth="20" frameHeight="6"/>
+	<SubTexture name="grapling lightening0012" x="1735" y="192" width="19" height="4" frameX="0" frameY="-2" frameWidth="20" frameHeight="6"/>
+	<SubTexture name="grapling lightening0013" x="1756" y="192" width="19" height="5" frameX="0" frameY="-1" frameWidth="20" frameHeight="6"/>
+	<SubTexture name="grapling lightening0014" x="1777" y="192" width="19" height="5" frameX="0" frameY="-1" frameWidth="20" frameHeight="6"/>
+	<SubTexture name="grapling lightening0015" x="1798" y="192" width="19" height="5" frameX="0" frameY="-1" frameWidth="20" frameHeight="6"/>
+	<SubTexture name="grapling lightening0016" x="1819" y="192" width="19" height="5" frameX="0" frameY="-1" frameWidth="20" frameHeight="6"/>
+	<SubTexture name="grapling lightening0017" x="1840" y="192" width="18" height="5" frameX="0" frameY="-1" frameWidth="20" frameHeight="6"/>
+	<SubTexture name="grapling lightening0018" x="1860" y="192" width="19" height="4" frameX="0" frameY="-2" frameWidth="20" frameHeight="6"/>
+	<SubTexture name="grapling lightening0019" x="1881" y="192" width="19" height="5" frameX="0" frameY="-1" frameWidth="20" frameHeight="6"/>
+	<SubTexture name="gun side0000" x="1902" y="192" width="65" height="24" pivotX="25.3" pivotY="18.9"/>
+	<SubTexture name="handle0000" x="1969" y="192" width="51" height="18" pivotX="24.6" pivotY="6.05"/>
+	<SubTexture name="helmit side blue0000" x="0" y="320" width="29" height="36" pivotX="16.75" pivotY="24.4"/>
+	<SubTexture name="hover blue backwards0000" x="31" y="320" width="46" height="94" pivotX="19.35" pivotY="114.55" frameX="0" frameY="0" frameWidth="55" frameHeight="127"/>
+	<SubTexture name="hover blue backwards0001" x="79" y="320" width="47" height="99" frameX="0" frameY="0" frameWidth="55" frameHeight="127"/>
+	<SubTexture name="hover blue backwards0002" x="128" y="320" width="47" height="103" frameX="-1" frameY="0" frameWidth="55" frameHeight="127"/>
+	<SubTexture name="hover blue backwards0003" x="177" y="320" width="46" height="108" frameX="-2" frameY="0" frameWidth="55" frameHeight="127"/>
+	<SubTexture name="hover blue backwards0004" x="225" y="320" width="46" height="112" frameX="-3" frameY="0" frameWidth="55" frameHeight="127"/>
+	<SubTexture name="hover blue backwards0005" x="273" y="320" width="46" height="115" frameX="-4" frameY="0" frameWidth="55" frameHeight="127"/>
+	<SubTexture name="hover blue backwards0006" x="321" y="320" width="45" height="119" frameX="-6" frameY="0" frameWidth="55" frameHeight="127"/>
+	<SubTexture name="hover blue backwards0007" x="368" y="320" width="45" height="122" frameX="-7" frameY="0" frameWidth="55" frameHeight="127"/>
+	<SubTexture name="hover blue backwards0008" x="415" y="320" width="45" height="125" frameX="-8" frameY="0" frameWidth="55" frameHeight="127"/>
+	<SubTexture name="hover blue backwards0009" x="462" y="320" width="47" height="127" frameX="-8" frameY="0" frameWidth="55" frameHeight="127"/>
+	<SubTexture name="hover blue forwards0000" x="511" y="320" width="46" height="93" pivotX="42.3" pivotY="114.55" frameX="-23" frameY="-1" frameWidth="69" frameHeight="124"/>
+	<SubTexture name="hover blue forwards0001" x="559" y="320" width="45" height="96" frameX="-21" frameY="-1" frameWidth="69" frameHeight="124"/>
+	<SubTexture name="hover blue forwards0002" x="606" y="320" width="47" height="100" frameX="-19" frameY="-1" frameWidth="69" frameHeight="124"/>
+	<SubTexture name="hover blue forwards0003" x="655" y="320" width="50" height="104" frameX="-16" frameY="0" frameWidth="69" frameHeight="124"/>
+	<SubTexture name="hover blue forwards0004" x="707" y="320" width="51" height="108" frameX="-14" frameY="0" frameWidth="69" frameHeight="124"/>
+	<SubTexture name="hover blue forwards0005" x="760" y="320" width="54" height="111" frameX="-11" frameY="0" frameWidth="69" frameHeight="124"/>
+	<SubTexture name="hover blue forwards0006" x="816" y="320" width="57" height="114" frameX="-8" frameY="0" frameWidth="69" frameHeight="124"/>
+	<SubTexture name="hover blue forwards0007" x="875" y="320" width="58" height="117" frameX="-6" frameY="0" frameWidth="69" frameHeight="124"/>
+	<SubTexture name="hover blue forwards0008" x="935" y="320" width="61" height="121" frameX="-3" frameY="0" frameWidth="69" frameHeight="124"/>
+	<SubTexture name="hover blue forwards0009" x="998" y="320" width="64" height="124" frameX="0" frameY="0" frameWidth="69" frameHeight="124"/>
+	<SubTexture name="hydra wave gun0000" x="1064" y="320" width="50" height="48" pivotX="23.1" pivotY="21.8"/>
+	<SubTexture name="jumping blue0000" x="1116" y="320" width="45" height="126" pivotX="19.35" pivotY="115.25" frameX="-8" frameY="-1" frameWidth="53" frameHeight="134"/>
+	<SubTexture name="jumping blue0001" x="1163" y="320" width="43" height="129" frameX="-8" frameY="0" frameWidth="53" frameHeight="134"/>
+	<SubTexture name="jumping blue0002" x="1208" y="320" width="42" height="132" frameX="-7" frameY="0" frameWidth="53" frameHeight="134"/>
+	<SubTexture name="jumping blue0003" x="1252" y="320" width="40" height="134" frameX="-6" frameY="0" frameWidth="53" frameHeight="134"/>
+	<SubTexture name="jumping blue0004" x="1294" y="320" width="41" height="131" frameX="-6" frameY="0" frameWidth="53" frameHeight="134"/>
+	<SubTexture name="jumping blue0005" x="1337" y="320" width="42" height="128" frameX="-5" frameY="0" frameWidth="53" frameHeight="134"/>
+	<SubTexture name="jumping blue0006" x="1381" y="320" width="43" height="123" frameX="-4" frameY="-1" frameWidth="53" frameHeight="134"/>
+	<SubTexture name="jumping blue0007" x="1426" y="320" width="43" height="120" frameX="-4" frameY="-1" frameWidth="53" frameHeight="134"/>
+	<SubTexture name="jumping blue0008" x="1471" y="320" width="44" height="117" frameX="-3" frameY="-1" frameWidth="53" frameHeight="134"/>
+	<SubTexture name="jumping blue0009" x="1517" y="320" width="45" height="113" frameX="-2" frameY="-1" frameWidth="53" frameHeight="134"/>
+	<SubTexture name="jumping blue0010" x="1564" y="320" width="45" height="109" frameX="-2" frameY="-1" frameWidth="53" frameHeight="134"/>
+	<SubTexture name="jumping blue0011" x="1611" y="320" width="46" height="106" frameX="-1" frameY="-1" frameWidth="53" frameHeight="134"/>
+	<SubTexture name="jumping blue0012" x="1659" y="320" width="46" height="102" frameX="-1" frameY="-1" frameWidth="53" frameHeight="134"/>
+	<SubTexture name="jumping blue0013" x="1707" y="320" width="46" height="97" frameX="-1" frameY="-2" frameWidth="53" frameHeight="134"/>
+	<SubTexture name="jumping blue0014" x="1755" y="320" width="47" height="93" frameX="0" frameY="-2" frameWidth="53" frameHeight="134"/>
+	<SubTexture name="missile 10000" x="1804" y="320" width="48" height="15" pivotX="0" pivotY="0"/>
+	<SubTexture name="missile 10001" x="1854" y="320" width="48" height="15"/>
+	<SubTexture name="plasma launcher0000" x="1904" y="320" width="85" height="36" pivotX="42.8" pivotY="17.5"/>
+	<SubTexture name="running blue backwards0000" x="1991" y="320" width="54" height="130" pivotX="59.95" pivotY="126.55" frameX="-29" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0001" x="0" y="456" width="46" height="128" frameX="-36" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0002" x="48" y="456" width="38" height="128" frameX="-42" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0003" x="88" y="456" width="46" height="126" frameX="-34" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0004" x="136" y="456" width="54" height="125" frameX="-27" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0005" x="192" y="456" width="67" height="124" frameX="-20" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0006" x="261" y="456" width="80" height="123" frameX="-13" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0007" x="343" y="456" width="93" height="122" frameX="-6" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0008" x="438" y="456" width="101" height="118" frameX="0" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0009" x="541" y="456" width="88" height="116" frameX="-13" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0010" x="631" y="456" width="80" height="123" frameX="-21" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0011" x="713" y="456" width="72" height="130" frameX="-29" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0012" x="787" y="456" width="70" height="130" frameX="-29" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0013" x="859" y="456" width="61" height="128" frameX="-36" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0014" x="922" y="456" width="39" height="128" frameX="-44" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0015" x="963" y="456" width="36" height="126" frameX="-46" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0016" x="1001" y="456" width="39" height="125" frameX="-42" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0017" x="1042" y="456" width="53" height="124" frameX="-34" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0018" x="1097" y="456" width="66" height="123" frameX="-27" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0019" x="1165" y="456" width="79" height="122" frameX="-20" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0020" x="1246" y="456" width="88" height="118" frameX="-13" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0021" x="1336" y="456" width="95" height="116" frameX="-6" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0022" x="1433" y="456" width="101" height="113" frameX="0" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0023" x="1536" y="456" width="88" height="111" frameX="-13" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0024" x="1626" y="456" width="78" height="123" frameX="-21" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue backwards0025" x="1706" y="456" width="68" height="130" frameX="-29" frameY="0" frameWidth="101" frameHeight="130"/>
+	<SubTexture name="running blue forwards0000" x="1776" y="456" width="72" height="130" pivotX="59.95" pivotY="126.55" frameX="-29" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0001" x="1850" y="456" width="81" height="123" frameX="-21" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0002" x="1933" y="456" width="88" height="116" frameX="-13" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0003" x="0" y="588" width="101" height="119" frameX="0" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0004" x="103" y="588" width="92" height="122" frameX="-7" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0005" x="197" y="588" width="80" height="123" frameX="-13" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0006" x="279" y="588" width="68" height="124" frameX="-20" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0007" x="349" y="588" width="55" height="125" frameX="-27" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0008" x="406" y="588" width="45" height="127" frameX="-35" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0009" x="453" y="588" width="38" height="128" frameX="-42" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0010" x="493" y="588" width="45" height="128" frameX="-37" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0011" x="540" y="588" width="55" height="130" frameX="-29" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0012" x="597" y="588" width="68" height="130" frameX="-29" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0013" x="667" y="588" width="78" height="123" frameX="-21" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0014" x="747" y="588" width="88" height="112" frameX="-13" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0015" x="837" y="588" width="102" height="113" frameX="0" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0016" x="941" y="588" width="94" height="116" frameX="-7" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0017" x="1037" y="588" width="88" height="119" frameX="-13" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0018" x="1127" y="588" width="79" height="122" frameX="-20" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0019" x="1208" y="588" width="66" height="123" frameX="-27" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0020" x="1276" y="588" width="53" height="124" frameX="-35" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0021" x="1331" y="588" width="40" height="125" frameX="-42" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0022" x="1373" y="588" width="35" height="127" frameX="-47" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0023" x="1410" y="588" width="40" height="128" frameX="-44" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0024" x="1452" y="588" width="60" height="128" frameX="-37" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="running blue forwards0025" x="1514" y="588" width="70" height="130" frameX="-29" frameY="0" frameWidth="102" frameHeight="130"/>
+	<SubTexture name="shin blue0000" x="1586" y="588" width="14" height="27" pivotX="9.75" pivotY="1.3"/>
+	<SubTexture name="side bysept0000" x="1602" y="588" width="13" height="33" pivotX="5.65" pivotY="4.95"/>
+	<SubTexture name="side chest blue0000" x="1617" y="588" width="31" height="32" pivotX="16.3" pivotY="25.9"/>
+	<SubTexture name="side foot blue0000" x="1650" y="588" width="25" height="13" pivotX="7.1" pivotY="1.75"/>
+	<SubTexture name="side forearm blue0000" x="1677" y="588" width="18" height="26" pivotX="8.25" pivotY="4.7"/>
+	<SubTexture name="standing blue 20000" x="1697" y="588" width="44" height="126" pivotX="31.25" pivotY="123.4"/>
+	<SubTexture name="standing blue 20001" x="1743" y="588" width="44" height="126"/>
+	<SubTexture name="standing blue 20002" x="1789" y="588" width="44" height="126"/>
+	<SubTexture name="standing blue 20003" x="1835" y="588" width="44" height="126"/>
+	<SubTexture name="standing blue 20004" x="1881" y="588" width="44" height="126"/>
+	<SubTexture name="standing blue 20005" x="1927" y="588" width="44" height="126"/>
+	<SubTexture name="standing blue 20006" x="1973" y="588" width="44" height="125" frameX="0" frameY="-1" frameWidth="44" frameHeight="126"/>
+	<SubTexture name="standing blue 20007" x="0" y="720" width="44" height="125" frameX="0" frameY="-1" frameWidth="44" frameHeight="126"/>
+	<SubTexture name="standing blue 20008" x="46" y="720" width="44" height="125" frameX="0" frameY="-1" frameWidth="44" frameHeight="126"/>
+	<SubTexture name="standing blue 20009" x="92" y="720" width="44" height="125" frameX="0" frameY="-1" frameWidth="44" frameHeight="126"/>
+	<SubTexture name="standing blue 20010" x="138" y="720" width="44" height="125" frameX="0" frameY="-1" frameWidth="44" frameHeight="126"/>
+	<SubTexture name="standing blue 20011" x="184" y="720" width="44" height="125" frameX="0" frameY="-1" frameWidth="44" frameHeight="126"/>
+	<SubTexture name="standing blue 20012" x="230" y="720" width="44" height="125" frameX="0" frameY="-1" frameWidth="44" frameHeight="126"/>
+	<SubTexture name="standing blue 20013" x="276" y="720" width="44" height="125" frameX="0" frameY="-1" frameWidth="44" frameHeight="126"/>
+	<SubTexture name="standing blue 20014" x="322" y="720" width="44" height="126"/>
+	<SubTexture name="standing blue 20015" x="368" y="720" width="44" height="126"/>
+	<SubTexture name="standing blue 20016" x="414" y="720" width="44" height="126"/>
+	<SubTexture name="standing blue 20017" x="460" y="720" width="44" height="126"/>
+	<SubTexture name="standing blue 20018" x="506" y="720" width="44" height="126"/>
+	<SubTexture name="standing blue 20019" x="552" y="720" width="44" height="126"/>
+	<SubTexture name="sword0000" x="598" y="720" width="174" height="35" pivotX="45.85" pivotY="15.2"/>
+	<SubTexture name="sword swing 10000" x="774" y="720" width="55" height="123" pivotX="74.75" pivotY="146.5" frameX="-33" frameY="-26" frameWidth="300" frameHeight="179"/>
+	<SubTexture name="sword swing 10001" x="831" y="720" width="162" height="124" frameX="0" frameY="-26" frameWidth="300" frameHeight="179"/>
+	<SubTexture name="sword swing 10002" x="995" y="720" width="182" height="122" frameX="-7" frameY="-27" frameWidth="300" frameHeight="179"/>
+	<SubTexture name="sword swing 10003" x="1179" y="720" width="207" height="124" frameX="-10" frameY="-25" frameWidth="300" frameHeight="179"/>
+	<SubTexture name="sword swing 10004" x="1388" y="720" width="232" height="132" frameX="-13" frameY="-17" frameWidth="300" frameHeight="179"/>
+	<SubTexture name="sword swing 10005" x="1622" y="720" width="257" height="169" frameX="-16" frameY="-10" frameWidth="300" frameHeight="179"/>
+	<SubTexture name="sword swing 10006" x="0" y="891" width="281" height="146" frameX="-19" frameY="-3" frameWidth="300" frameHeight="179"/>
+	<SubTexture name="sword swing 10007" x="283" y="891" width="205" height="173" frameX="-58" frameY="0" frameWidth="300" frameHeight="179"/>
+	<SubTexture name="sword swing 10008" x="490" y="891" width="189" height="139" frameX="-45" frameY="-24" frameWidth="300" frameHeight="179"/>
+	<SubTexture name="sword swing 10009" x="681" y="891" width="164" height="122" frameX="-40" frameY="-28" frameWidth="300" frameHeight="179"/>
+	<SubTexture name="sword swing 20000" x="847" y="891" width="92" height="122" pivotX="70.85" pivotY="157.7" frameX="-53" frameY="-39" frameWidth="308" frameHeight="180"/>
+	<SubTexture name="sword swing 20001" x="941" y="891" width="214" height="122" frameX="-42" frameY="-39" frameWidth="308" frameHeight="180"/>
+	<SubTexture name="sword swing 20002" x="1157" y="891" width="234" height="136" frameX="-49" frameY="-24" frameWidth="308" frameHeight="180"/>
+	<SubTexture name="sword swing 20003" x="1393" y="891" width="255" height="159" frameX="-53" frameY="-1" frameWidth="308" frameHeight="180"/>
+	<SubTexture name="sword swing 20004" x="1650" y="891" width="233" height="171" frameX="-53" frameY="0" frameWidth="308" frameHeight="180"/>
+	<SubTexture name="sword swing 20005" x="0" y="1066" width="214" height="174" frameX="-53" frameY="-4" frameWidth="308" frameHeight="180"/>
+	<SubTexture name="sword swing 20006" x="216" y="1066" width="207" height="166" frameX="-42" frameY="-14" frameWidth="308" frameHeight="180"/>
+	<SubTexture name="sword swing 20007" x="425" y="1066" width="214" height="145" frameX="-19" frameY="-30" frameWidth="308" frameHeight="180"/>
+	<SubTexture name="sword swing 20008" x="641" y="1066" width="218" height="126" frameX="0" frameY="-40" frameWidth="308" frameHeight="180"/>
+	<SubTexture name="sword swing 20009" x="861" y="1066" width="126" height="119" frameX="-22" frameY="-40" frameWidth="308" frameHeight="180"/>
+	<SubTexture name="thigh side blue0000" x="989" y="1066" width="15" height="30" pivotX="6.15" pivotY="4.45"/>
+	<SubTexture name="thorax armor 10000" x="1006" y="1066" width="15" height="13" pivotX="7.65" pivotY="7.3"/>
+	<SubTexture name="thorax armor 20000" x="1023" y="1066" width="17" height="13" pivotX="6.85" pivotY="10.15"/>
+	<SubTexture name="thorax armor 30000" x="1042" y="1066" width="19" height="16" pivotX="8" pivotY="15.85"/>
+</TextureAtlas>

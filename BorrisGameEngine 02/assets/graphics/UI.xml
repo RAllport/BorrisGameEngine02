@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="UI.png">
+	<SubTexture name="Arcs group 20000" x="434" y="562" width="119" height="119"/>
+	<SubTexture name="Button 5 back0000" x="677" y="915" width="121" height="41"/>
+	<SubTexture name="Button 5 back0001" x="799" y="915" width="121" height="41"/>
+	<SubTexture name="Button 5 back0002" x="677" y="957" width="121" height="41"/>
+	<SubTexture name="aim target 10000" x="1995" y="47" width="49" height="41" frameX="0" frameY="0" frameWidth="67" frameHeight="56"/>
+	<SubTexture name="aim target 10001" x="1711" y="573" width="67" height="56"/>
+	<SubTexture name="aim target 10002" x="1995" y="219" width="38" height="35" frameX="0" frameY="0" frameWidth="67" frameHeight="56"/>
+	<SubTexture name="aim target 10003" x="1995" y="1" width="45" height="45" frameX="0" frameY="0" frameWidth="67" frameHeight="56"/>
+	<SubTexture name="aim target 10004" x="1995" y="89" width="43" height="45" frameX="0" frameY="0" frameWidth="67" frameHeight="56"/>
+	<SubTexture name="aim target 10005" x="1995" y="135" width="41" height="41" frameX="0" frameY="0" frameWidth="67" frameHeight="56"/>
+	<SubTexture name="aim target 10006" x="1995" y="177" width="41" height="41" frameX="0" frameY="0" frameWidth="67" frameHeight="56"/>
+	<SubTexture name="arcs 10000" x="835" y="1129" width="145" height="145"/>
+	<SubTexture name="arcs 20000" x="679" y="1129" width="155" height="155"/>
+	<SubTexture name="arcs 30000" x="175" y="1129" width="165" height="165"/>
+	<SubTexture name="arcs 40000" x="1" y="1129" width="173" height="173"/>
+	<SubTexture name="black box0000" x="1444" y="466" width="101" height="101"/>
+	<SubTexture name="blue bottom 10000" x="1004" y="712" width="1002" height="152"/>
+	<SubTexture name="blue center 10000" x="569" y="1" width="1002" height="301"/>
+	<SubTexture name="blue footer0000" x="1" y="1006" width="1003" height="122"/>
+	<SubTexture name="blue top 10000" x="1" y="712" width="1002" height="202"/>
+	<SubTexture name="bottom piece 10000" x="1004" y="865" width="1030" height="140"/>
+	<SubTexture name="button 1 back0000" x="1238" y="573" width="472" height="106"/>
+	<SubTexture name="button 1 back0001" x="1005" y="1127" width="472" height="106"/>
+	<SubTexture name="button 1 back0002" x="1478" y="1127" width="472" height="106"/>
+	<SubTexture name="button 2 back0000" x="1" y="915" width="337" height="76"/>
+	<SubTexture name="button 2 back0001" x="339" y="915" width="337" height="76"/>
+	<SubTexture name="button 2 back0002" x="341" y="1129" width="337" height="76"/>
+	<SubTexture name="button 42-28 back0000" x="1995" y="255" width="44" height="29"/>
+	<SubTexture name="button 42-28 back0001" x="1995" y="285" width="44" height="29"/>
+	<SubTexture name="button 42-28 back0002" x="1521" y="303" width="44" height="29"/>
+	<SubTexture name="button 42-28 cyan back0000" x="1995" y="315" width="44" height="29"/>
+	<SubTexture name="button 42-28 cyan back0001" x="1521" y="333" width="44" height="29"/>
+	<SubTexture name="button 42-28 cyan back0002" x="1521" y="363" width="44" height="29"/>
+	<SubTexture name="button 42-28 green back0000" x="1521" y="393" width="44" height="29"/>
+	<SubTexture name="button 42-28 green back0001" x="1521" y="423" width="44" height="29"/>
+	<SubTexture name="button 42-28 green back0002" x="1982" y="449" width="44" height="29"/>
+	<SubTexture name="button 42-28 light back0000" x="1982" y="479" width="44" height="29"/>
+	<SubTexture name="button 42-28 light back0001" x="1982" y="509" width="44" height="29"/>
+	<SubTexture name="button 42-28 light back0002" x="1982" y="539" width="44" height="29"/>
+	<SubTexture name="circle button0000" x="341" y="1206" width="136" height="136"/>
+	<SubTexture name="circle button0001" x="478" y="1206" width="136" height="136"/>
+	<SubTexture name="circle button0002" x="981" y="1234" width="136" height="136"/>
+	<SubTexture name="custom circle 10000" x="1" y="1" width="567" height="560"/>
+	<SubTexture name="energy bar0000" x="1936" y="1" width="58" height="344"/>
+	<SubTexture name="medium screen 10000" x="569" y="303" width="668" height="408"/>
+	<SubTexture name="pause button down state0000" x="1936" y="346" width="102" height="102"/>
+	<SubTexture name="pause button over state0000" x="1238" y="466" width="102" height="102"/>
+	<SubTexture name="pause button up state0000" x="1341" y="466" width="102" height="102"/>
+	<SubTexture name="pointer0000" x="1546" y="453" width="22" height="22"/>
+	<SubTexture name="side piece 10000" x="1572" y="1" width="236" height="571"/>
+	<SubTexture name="side piece 20000" x="1809" y="1" width="126" height="462"/>
+	<SubTexture name="small screen 10000" x="1809" y="464" width="172" height="220"/>
+	<SubTexture name="small screen 20000" x="1238" y="303" width="282" height="162"/>
+	<SubTexture name="top piece 10000" x="1" y="562" width="432" height="120"/>
+	<SubTexture name="top piece 20000" x="1005" y="1006" width="834" height="120"/>
+</TextureAtlas>

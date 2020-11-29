@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="Enemy spider unit01.png">
+	<SubTexture name="Sider unit1 standing0000" x="417" y="882" width="191" height="146" frameX="0" frameY="-15" frameWidth="191" frameHeight="161"/>
+	<SubTexture name="Sider unit1 standing0001" x="667" y="879" width="190" height="147" frameX="-1" frameY="-14" frameWidth="191" frameHeight="161"/>
+	<SubTexture name="Sider unit1 standing0002" x="1124" y="868" width="189" height="149" frameX="-1" frameY="-12" frameWidth="191" frameHeight="161"/>
+	<SubTexture name="Sider unit1 standing0003" x="1566" y="727" width="188" height="151" frameX="-2" frameY="-10" frameWidth="191" frameHeight="161"/>
+	<SubTexture name="Sider unit1 standing0004" x="1821" y="725" width="187" height="153" frameX="-2" frameY="-8" frameWidth="191" frameHeight="161"/>
+	<SubTexture name="Sider unit1 standing0005" x="1821" y="571" width="186" height="154" frameX="-3" frameY="-7" frameWidth="191" frameHeight="161"/>
+	<SubTexture name="Sider unit1 standing0006" x="1636" y="571" width="185" height="156" frameX="-3" frameY="-5" frameWidth="191" frameHeight="161"/>
+	<SubTexture name="Sider unit1 standing0007" x="483" y="724" width="184" height="158" frameX="-4" frameY="-3" frameWidth="191" frameHeight="161"/>
+	<SubTexture name="Sider unit1 standing0008" x="1198" y="708" width="184" height="160" frameX="-4" frameY="-1" frameWidth="191" frameHeight="161"/>
+	<SubTexture name="Sider unit1 standing0009" x="942" y="716" width="182" height="161" frameX="-5" frameY="0" frameWidth="191" frameHeight="161"/>
+	<SubTexture name="Sider unit1 standing0010" x="698" y="719" width="183" height="160" frameX="-4" frameY="-1" frameWidth="191" frameHeight="161"/>
+	<SubTexture name="Sider unit1 standing0011" x="233" y="725" width="184" height="158" frameX="-4" frameY="-3" frameWidth="191" frameHeight="161"/>
+	<SubTexture name="Sider unit1 standing0012" x="0" y="868" width="184" height="157" frameX="-4" frameY="-4" frameWidth="191" frameHeight="161"/>
+	<SubTexture name="Sider unit1 standing0013" x="1382" y="711" width="184" height="155" frameX="-4" frameY="-6" frameWidth="191" frameHeight="161"/>
+	<SubTexture name="Sider unit1 standing0014" x="1382" y="866" width="184" height="154" frameX="-4" frameY="-7" frameWidth="191" frameHeight="161"/>
+	<SubTexture name="Sider unit1 standing0015" x="881" y="877" width="185" height="152" frameX="-3" frameY="-9" frameWidth="191" frameHeight="161"/>
+	<SubTexture name="Sider unit1 standing0016" x="184" y="883" width="185" height="150" frameX="-3" frameY="-11" frameWidth="191" frameHeight="161"/>
+	<SubTexture name="Sider unit1 standing0017" x="608" y="1026" width="186" height="149" frameX="-3" frameY="-12" frameWidth="191" frameHeight="161"/>
+	<SubTexture name="Sider unit1 standing0018" x="369" y="1028" width="186" height="147" frameX="-3" frameY="-14" frameWidth="191" frameHeight="161"/>
+	<SubTexture name="Sider unit1 standing0019" x="1066" y="1017" width="187" height="146" frameX="-2" frameY="-15" frameWidth="191" frameHeight="161"/>
+	<SubTexture name="Sider unit1 walking forward0000" x="485" y="437" width="237" height="146" frameX="-9" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0001" x="0" y="724" width="233" height="144" frameX="-11" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0002" x="1501" y="287" width="229" height="141" frameX="-13" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0003" x="978" y="436" width="224" height="140" frameX="-16" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0004" x="978" y="576" width="220" height="140" frameX="-18" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0005" x="483" y="583" width="215" height="141" frameX="-20" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0006" x="1426" y="569" width="210" height="142" frameX="-23" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0007" x="1700" y="428" width="209" height="143" frameX="-23" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0008" x="1738" y="284" width="226" height="144" frameX="-15" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0009" x="244" y="437" width="241" height="144" frameX="-7" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0010" x="0" y="0" width="256" height="145" frameX="0" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0011" x="0" y="145" width="254" height="145" frameX="-1" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0012" x="256" y="0" width="253" height="146" frameX="-1" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0013" x="509" y="0" width="251" height="146" frameX="-2" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0014" x="0" y="290" width="249" height="146" frameX="-3" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0015" x="1270" y="0" width="247" height="146" frameX="-4" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0016" x="754" y="287" width="246" height="146" frameX="-5" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0017" x="0" y="436" width="244" height="146" frameX="-6" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0018" x="1517" y="0" width="243" height="146" frameX="-6" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0019" x="1260" y="146" width="241" height="146" frameX="-7" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0020" x="244" y="581" width="239" height="144" frameX="-8" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0021" x="1501" y="146" width="237" height="141" frameX="-9" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0022" x="1738" y="146" width="237" height="138" frameX="-9" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0023" x="1241" y="292" width="233" height="137" frameX="-11" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0024" x="1241" y="429" width="229" height="139" frameX="-13" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0025" x="1202" y="568" width="224" height="140" frameX="-16" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0026" x="722" y="579" width="220" height="140" frameX="-18" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0027" x="1474" y="428" width="226" height="141" frameX="-15" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0028" x="0" y="582" width="241" height="142" frameX="-7" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0029" x="760" y="0" width="256" height="143" frameX="0" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0030" x="1016" y="0" width="254" height="144" frameX="-1" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0031" x="760" y="143" width="253" height="144" frameX="-1" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0032" x="254" y="146" width="251" height="145" frameX="-2" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0033" x="505" y="146" width="249" height="145" frameX="-3" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0034" x="1013" y="144" width="247" height="146" frameX="-4" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0035" x="249" y="291" width="246" height="146" frameX="-5" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0036" x="495" y="291" width="244" height="146" frameX="-6" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0037" x="1760" y="0" width="243" height="146" frameX="-6" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0038" x="1000" y="290" width="241" height="146" frameX="-7" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="Sider unit1 walking forward0039" x="739" y="433" width="239" height="146" frameX="-8" frameY="0" frameWidth="256" frameHeight="146"/>
+	<SubTexture name="body 01-010000" x="1909" y="428" width="81" height="115"/>
+	<SubTexture name="segment 01-010000" x="1066" y="877" width="55" height="29"/>
+	<SubTexture name="segment 02-010000" x="1909" y="543" width="51" height="20"/>
+	<SubTexture name="segment 03-010000" x="369" y="883" width="45" height="60"/>
+</TextureAtlas>

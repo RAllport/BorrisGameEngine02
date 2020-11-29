@@ -1,0 +1,46 @@
+<bscene name="Scene 0" cameraTarget="player" version="1.0" y="57" x="640">
+    <blayer name="layer 3" paralaxX="0.8" paralaxY="0.8" y="243.2" offsetY="0" z-index="0" x="0" offsetX="0"
+            scale="0.5">
+        <bentity name="poop" rotation="0" alpha="1" active="false" forceActive="false" y="0" x="500" scale="1">
+            <image texture="industrial platforn 1-1-10000" y="0" x="0"/>
+            <image texture="industrial platforn 1-1-10000" y="0" x="64"/>
+            <image texture="industrial platforn 1-1-10000" y="0" x="128"/>
+            <image texture="industrial platforn 1-1-10000" y="0" x="192"/>
+        </bentity>
+    </blayer>
+    <blayer name="layer 2" paralaxX="0" paralaxY="0" y="0" offsetY="0" z-index="0" x="0" offsetX="0" scale="1">
+        <bentity name="poop" rotation="0" alpha="1" active="false" forceActive="false" y="400" x="100" scale="1">
+            <brigidbody name="" height="16" type="static" shapetype="box" ownerfollow="true" y="400" width="64"
+                        x="100"></brigidbody>
+            <brigidbody name="" height="32" type="static" shapetype="box" ownerfollow="false" y="400" width="1000"
+                        x="100"></brigidbody>
+            <image texture="industrial platforn 1-1-10000" y="0" x="0"/>
+        </bentity>
+    </blayer>
+    <blayer name="layer 1" paralaxX="0" paralaxY="0" y="0" offsetY="0" z-index="0" x="0" offsetX="0" scale="1">
+        <bentity name="" rotation="0" alpha="1" active="false" forceActive="false" y="0" x="0" scale="1"></bentity>
+        <bentity name="player" rotation="0" alpha="1" active="false" forceActive="true" y="304" x="0" scale="-1">
+            <brigidbody name="" height="24" type="dynamic" shapetype="circle" ownerfollow="false" y="-34" width="24"
+                        x="0"></brigidbody>
+            <brigidbody name="torsoBody" height="44" type="dynamic" shapetype="box" ownerfollow="true" y="0" width="30"
+                        x="0"></brigidbody>
+            <brigidbody name="" height="50" type="dynamic" shapetype="box" ownerfollow="false" y="44" width="24"
+                        x="0"></brigidbody>
+            <brigidbody name="" height="24" type="dynamic" shapetype="circle" ownerfollow="false" y="70" width="24"
+                        x="0"></brigidbody>
+            <brigidbody name="groundSensorBody" height="10" type="dynamic" shapetype="box" ownerfollow="false" y="86"
+                        width="30" x="0"></brigidbody>
+            <image texture="backHands" y="-16" x="0"/>
+            <image texture="standing" y="-46" x="-16"/>
+            <image texture="runningForward" y="-46" x="-62"/>
+            <image texture="runningBackward" y="-46" x="-62"/>
+            <image texture="jumping" y="-46" x="-23"/>
+            <image texture="ducking" y="-46" x="-44"/>
+            <image texture="dashingForward" y="-46" x="-56"/>
+            <image texture="dashingBackward" y="-46" x="-56"/>
+            <image texture="hoveringForward" y="-46" x="-48"/>
+            <image texture="hoveringBackward" y="-46" x="-26"/>
+            <image texture="frontHands" y="-16" x="0"/>
+        </bentity>
+    </blayer>
+</bscene>

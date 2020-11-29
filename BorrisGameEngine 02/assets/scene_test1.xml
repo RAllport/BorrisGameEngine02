@@ -1,0 +1,22 @@
+<bscene version="1.0" name="test scene xml" x="0" y="0"  physics="box2d" cameraTarget="player">
+  
+  <blayer name="collision" z-index="1" x="0" y="0" scale="1" offsetX="0" offsetY="0" paralaxX="0" paralaxY="0">
+    <bentity name="poop" type="" x="0" y="0" rotation="0" alpha="1" active="false" forceActive="false">
+      <image texture="industrial platforn 1-1-10000" x="0" y="0" pivotx="0" pivoty="0" alpha="1"/>
+      <!--<movieclip textures="running blue forwards" x="0" y="0" pivotx="0" pivoty="0" alpha="1" loop="true" fps="60" scale="2"/>-->
+      <brigidbody type="static" x="100" y="400" shapetype="box"/>
+      <brigidbody type="static" x="100" y="400" width="1000" height="32" shapetype="box" ownerfollow="false"/>
+    </bentity>
+  </blayer>
+
+  <blayer name="background 01" z-index="0" x="1000" y="1000" scale="0.5" offsetX="0" offsetY="0" paralaxX="0.8" paralaxY="0.8">
+    
+    <bentity name="poop" type="" x="500" y="0" rotation="0" alpha="1" active="false" forceActive="false">
+      <image texture="industrial platforn 1-1-10000" x="0" y="0" pivotx="0" pivoty="0" alpha="1"/>
+      <image texture="industrial platforn 1-1-10000" x="64" y="0" pivotx="0" pivoty="0" alpha="1"/>
+      <image texture="industrial platforn 1-1-10000" x="128" y="0" pivotx="0" pivoty="0" alpha="1"/>
+      <image texture="industrial platforn 1-1-10000" x="192" y="0" pivotx="0" pivoty="0" alpha="1"/>
+    </bentity>
+
+  </blayer>
+</bscene>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="Effects.png">
+	<SubTexture name="Beam piece 1 inner glow0000" x="328" y="378" width="1075" height="69"/>
+	<SubTexture name="Beam piece 10000" x="328" y="448" width="1071" height="64"/>
+	<SubTexture name="beam piece 20000" x="328" y="567" width="1053" height="53" frameX="-1" frameY="-1" frameWidth="1055" frameHeight="54"/>
+	<SubTexture name="beam piece 20001" x="328" y="513" width="1055" height="53" frameX="0" frameY="0" frameWidth="1055" frameHeight="54"/>
+	<SubTexture name="beam piece 20002" x="328" y="674" width="1052" height="51" frameX="-2" frameY="-1" frameWidth="1055" frameHeight="54"/>
+	<SubTexture name="beam piece 20003" x="328" y="621" width="1053" height="52" frameX="-1" frameY="-1" frameWidth="1055" frameHeight="54"/>
+	<SubTexture name="beam piece 30000" x="328" y="726" width="1033" height="17"/>
+	<SubTexture name="electricity loop0000" x="360" y="1" width="1065" height="97" frameX="-5" frameY="-2" frameWidth="1078" frameHeight="99"/>
+	<SubTexture name="electricity loop0001" x="360" y="195" width="1076" height="91" frameX="0" frameY="-2" frameWidth="1078" frameHeight="99"/>
+	<SubTexture name="electricity loop0002" x="360" y="287" width="1073" height="90" frameX="-5" frameY="-3" frameWidth="1078" frameHeight="99"/>
+	<SubTexture name="electricity loop0003" x="360" y="99" width="1074" height="95" frameX="-3" frameY="0" frameWidth="1078" frameHeight="99"/>
+	<SubTexture name="explosion 01 core 010000" x="1" y="364" width="326" height="326"/>
+	<SubTexture name="explosion 01 core 020000" x="1" y="691" width="326" height="326"/>
+	<SubTexture name="explosion 01 core 030000" x="1" y="1" width="358" height="362"/>
+	<SubTexture name="explosion piece 10000" x="1635" y="302" width="67" height="64" frameX="-55" frameY="-46" frameWidth="187" frameHeight="136"/>
+	<SubTexture name="explosion piece 10001" x="1382" y="640" width="125" height="111" frameX="-21" frameY="-18" frameWidth="187" frameHeight="136"/>
+	<SubTexture name="explosion piece 10002" x="1400" y="503" width="187" height="136"/>
+	<SubTexture name="lightning piece 10000" x="544" y="744" width="53" height="7"/>
+	<SubTexture name="lightning piece 20000" x="1810" y="869" width="52" height="24"/>
+	<SubTexture name="lightning piece 30000" x="490" y="744" width="53" height="12"/>
+	<SubTexture name="lightning piece 40000" x="1940" y="388" width="53" height="14"/>
+	<SubTexture name="lightning piece 50000" x="436" y="744" width="53" height="13"/>
+	<SubTexture name="lightning piece 60000" x="1758" y="875" width="51" height="23"/>
+	<SubTexture name="lightning piece 70000" x="328" y="744" width="53" height="23"/>
+	<SubTexture name="particle 3 round flat0000" x="1864" y="796" width="36" height="36"/>
+	<SubTexture name="particle 3 round grad0000" x="1880" y="917" width="30" height="30"/>
+	<SubTexture name="particle arc 10000" x="2006" y="915" width="21" height="50"/>
+	<SubTexture name="particle arc 20000" x="1917" y="895" width="21" height="50"/>
+	<SubTexture name="particle arc 30000" x="1939" y="895" width="21" height="50"/>
+	<SubTexture name="particle arc 40000" x="1961" y="920" width="21" height="50"/>
+	<SubTexture name="particle arc 50000" x="2027" y="802" width="19" height="50" frameX="0" frameY="0" frameWidth="20" frameHeight="50"/>
+	<SubTexture name="particle arc 60000" x="1983" y="920" width="20" height="50"/>
+	<SubTexture name="particle arc 70000" x="2004" y="966" width="20" height="50"/>
+	<SubTexture name="particle arc 80000" x="2025" y="966" width="20" height="50"/>
+	<SubTexture name="particle arrow head blur20000" x="1743" y="610" width="51" height="51"/>
+	<SubTexture name="particle arrow head blur40000" x="1985" y="192" width="57" height="57"/>
+	<SubTexture name="particle arrow head blur60000" x="1985" y="130" width="61" height="61"/>
+	<SubTexture name="particle arrow head flat0000" x="1635" y="367" width="41" height="41"/>
+	<SubTexture name="particle circle blur2 glow6 blue0000" x="1833" y="610" width="49" height="49"/>
+	<SubTexture name="particle circle blur2 glow6 cyan0000" x="1883" y="610" width="49" height="49"/>
+	<SubTexture name="particle circle blur2 glow6 green0000" x="1933" y="610" width="49" height="49"/>
+	<SubTexture name="particle circle blur2 glow6 orange0000" x="1983" y="610" width="49" height="49"/>
+	<SubTexture name="particle circle blur2 glow6 purple0000" x="1833" y="660" width="49" height="49"/>
+	<SubTexture name="particle circle blur2 glow6 red0000" x="1781" y="678" width="49" height="49"/>
+	<SubTexture name="particle circle blur2 glow6 yellow0000" x="1883" y="660" width="49" height="49"/>
+	<SubTexture name="particle circle flat0000" x="1734" y="792" width="20" height="21"/>
+	<SubTexture name="particle flame 1 blur00000" x="2020" y="302" width="21" height="50"/>
+	<SubTexture name="particle flame 1 blur20000" x="1703" y="302" width="31" height="61"/>
+	<SubTexture name="particle flame 1 blur40000" x="1588" y="503" width="37" height="67"/>
+	<SubTexture name="particle flame 2 blur00000" x="2025" y="1" width="21" height="51"/>
+	<SubTexture name="particle flame 2 blur20000" x="1586" y="779" width="31" height="60"/>
+	<SubTexture name="particle flame 2 blur40000" x="1795" y="610" width="37" height="67"/>
+	<SubTexture name="particle flame 3 blur00000" x="2025" y="53" width="21" height="51"/>
+	<SubTexture name="particle flame 3 blur20000" x="1618" y="779" width="31" height="60"/>
+	<SubTexture name="particle flame 3 blur40000" x="1743" y="662" width="37" height="67"/>
+	<SubTexture name="particle flame 4 blur00000" x="2020" y="250" width="21" height="51"/>
+	<SubTexture name="particle flame 4 blur20000" x="1650" y="779" width="31" height="60"/>
+	<SubTexture name="particle flame 4 blur40000" x="1588" y="711" width="37" height="67"/>
+	<SubTexture name="particle flame 5 blur00000" x="2020" y="353" width="21" height="50"/>
+	<SubTexture name="particle flame 5 blur20000" x="1702" y="711" width="31" height="61"/>
+	<SubTexture name="particle flame 5 blur40000" x="1548" y="769" width="37" height="67"/>
+	<SubTexture name="particle flame 6 blur00000" x="1404" y="378" width="21" height="50"/>
+	<SubTexture name="particle flame 6 blur20000" x="1734" y="730" width="31" height="61"/>
+	<SubTexture name="particle flame 6 blur40000" x="1626" y="711" width="37" height="67"/>
+	<SubTexture name="particle flame 7 blur00000" x="2017" y="864" width="21" height="50"/>
+	<SubTexture name="particle flame 7 blur20000" x="1702" y="773" width="31" height="61"/>
+	<SubTexture name="particle flame 7 blur40000" x="1664" y="711" width="37" height="67"/>
+	<SubTexture name="particle lightning 50-200000" x="1863" y="869" width="53" height="23" frameX="0" frameY="-1" frameWidth="53" frameHeight="24"/>
+	<SubTexture name="particle lightning 50-200001" x="1963" y="864" width="53" height="24"/>
+	<SubTexture name="particle lightning 50-200002" x="1863" y="893" width="53" height="23" frameX="0" frameY="-1" frameWidth="53" frameHeight="24"/>
+	<SubTexture name="particle lightning 50-200003" x="382" y="744" width="53" height="21" frameX="0" frameY="-3" frameWidth="53" frameHeight="24"/>
+	<SubTexture name="particle long flat0000" x="1766" y="730" width="13" height="41"/>
+	<SubTexture name="particle moon blur20000" x="1799" y="777" width="30" height="21"/>
+	<SubTexture name="particle moon blur40000" x="1843" y="917" width="36" height="27"/>
+	<SubTexture name="particle moon flat0000" x="1677" y="392" width="20" height="11"/>
+	<SubTexture name="particle moon jagged0000" x="328" y="364" width="24" height="13"/>
+	<SubTexture name="particle ring 1 white0000" x="1902" y="759" width="20" height="20"/>
+	<SubTexture name="particle ring L2 flat0000" x="1384" y="513" width="12" height="53"/>
+	<SubTexture name="particle ring L2 jagged0000" x="2033" y="712" width="13" height="53"/>
+	<SubTexture name="particle ring L4 flat0000" x="1682" y="779" width="14" height="55"/>
+	<SubTexture name="particle ring back glow40000" x="1588" y="571" width="39" height="38"/>
+	<SubTexture name="particle round flat0000" x="2025" y="105" width="21" height="20"/>
+	<SubTexture name="particle round grad0000" x="1994" y="388" width="21" height="20"/>
+	<SubTexture name="particle round jagged0000" x="1837" y="803" width="24" height="24"/>
+	<SubTexture name="particle round spark blur40000" x="1864" y="759" width="37" height="36"/>
+	<SubTexture name="particle round spark0000" x="1810" y="839" width="21" height="20"/>
+	<SubTexture name="particle square flat0000" x="1810" y="894" width="32" height="32"/>
+	<SubTexture name="particle start8-05  flat0000" x="1677" y="367" width="25" height="24"/>
+	<SubTexture name="particle start8-05 blur2 glow6 blue0000" x="1933" y="660" width="49" height="48"/>
+	<SubTexture name="particle start8-05 blur2 glow6 cyan0000" x="1983" y="660" width="49" height="48"/>
+	<SubTexture name="particle start8-05 blur2 glow6 green0000" x="1933" y="709" width="49" height="48"/>
+	<SubTexture name="particle start8-05 blur2 glow6 orange0000" x="1983" y="709" width="49" height="48"/>
+	<SubTexture name="particle start8-05 blur2 glow6 purple0000" x="1831" y="710" width="49" height="48"/>
+	<SubTexture name="particle start8-05 blur2 glow6 red0000" x="1781" y="728" width="49" height="48"/>
+	<SubTexture name="particle start8-05 blur2 glow6 yellow0000" x="1881" y="710" width="49" height="48"/>
+	<SubTexture name="particle triangle flat0000" x="1404" y="429" width="20" height="18"/>
+	<SubTexture name="particle wave filter0000" x="1720" y="835" width="10" height="21"/>
+	<SubTexture name="particle zoom0000" x="1588" y="610" width="154" height="100"/>
+	<SubTexture name="pulse double laser blur2 glow5 blue0000" x="1799" y="803" width="37" height="35"/>
+	<SubTexture name="pulse double laser blur2 glow5 cyan0000" x="1734" y="821" width="37" height="35"/>
+	<SubTexture name="pulse double laser blur2 glow5 green0000" x="1682" y="835" width="37" height="35"/>
+	<SubTexture name="pulse double laser blur2 glow5 orange0000" x="1901" y="802" width="37" height="35"/>
+	<SubTexture name="pulse double laser blur2 glow5 purple0000" x="1837" y="833" width="37" height="35"/>
+	<SubTexture name="pulse double laser blur2 glow5 red0000" x="1772" y="839" width="37" height="35"/>
+	<SubTexture name="pulse double laser blur2 glow5 yellow0000" x="1720" y="857" width="37" height="35"/>
+	<SubTexture name="pulser double laser filter0000" x="2030" y="766" width="15" height="13"/>
+	<SubTexture name="pulser laser blur2 glow6 blue0000" x="1939" y="802" width="43" height="30"/>
+	<SubTexture name="pulser laser blur2 glow6 cyan0000" x="1983" y="802" width="43" height="30"/>
+	<SubTexture name="pulser laser blur2 glow6 green0000" x="1939" y="833" width="43" height="30"/>
+	<SubTexture name="pulser laser blur2 glow6 orange0000" x="1875" y="838" width="43" height="30"/>
+	<SubTexture name="pulser laser blur2 glow6 purple0000" x="1983" y="833" width="43" height="30"/>
+	<SubTexture name="pulser laser blur2 glow6 red0000" x="1919" y="864" width="43" height="30"/>
+	<SubTexture name="pulser laser blur2 glow6 yellow0000" x="1963" y="889" width="42" height="30"/>
+	<SubTexture name="pulser laser filter0000" x="1810" y="860" width="21" height="8"/>
+	<SubTexture name="shockwave circle0000" x="1434" y="302" width="200" height="200"/>
+	<SubTexture name="shockwave circle irregular 10000" x="1437" y="1" width="300" height="300"/>
+	<SubTexture name="shockwave orange circle blast 010000" x="1635" y="409" width="200" height="200"/>
+	<SubTexture name="shockwave orange circle blast 020000" x="1738" y="208" width="201" height="200"/>
+	<SubTexture name="shockwave orange circle blast 030000" x="1836" y="409" width="200" height="200"/>
+	<SubTexture name="shockwave orange wave 010000" x="1911" y="946" width="32" height="20"/>
+	<SubTexture name="shockwave spike 20000" x="1626" y="503" width="8" height="66"/>
+	<SubTexture name="shockwave spikey0000" x="1738" y="1" width="206" height="206"/>
+	<SubTexture name="slash effect blur2 glow6 blue0000" x="1985" y="1" width="39" height="128"/>
+	<SubTexture name="slash effect blur2 glow6 cyan0000" x="1508" y="640" width="39" height="129"/>
+	<SubTexture name="slash effect blur2 glow6 green0000" x="1945" y="1" width="39" height="128"/>
+	<SubTexture name="slash effect blur2 glow6 orange0000" x="1980" y="259" width="39" height="128"/>
+	<SubTexture name="slash effect blur2 glow6 purple0000" x="1940" y="259" width="39" height="128"/>
+	<SubTexture name="slash effect blur2 glow6 red0000" x="1548" y="640" width="39" height="128"/>
+	<SubTexture name="slash effect blur2 glow6 yellow0000" x="1945" y="130" width="39" height="128"/>
+	<SubTexture name="slash effect flat&#0320000" x="2033" y="610" width="11" height="101"/>
+	<SubTexture name="wave laser blur2 glow5 blue0000" x="1703" y="364" width="32" height="43"/>
+	<SubTexture name="wave laser blur2 glow5 cyan0000" x="1931" y="758" width="32" height="43"/>
+	<SubTexture name="wave laser blur2 glow5 green0000" x="1964" y="758" width="32" height="43"/>
+	<SubTexture name="wave laser blur2 glow5 orange0000" x="1997" y="758" width="32" height="43"/>
+	<SubTexture name="wave laser blur2 glow5 purple0000" x="1831" y="759" width="32" height="43"/>
+	<SubTexture name="wave laser blur2 glow5 red0000" x="1766" y="777" width="32" height="43"/>
+	<SubTexture name="wave laser blur2 glow5 yellow0000" x="1400" y="448" width="33" height="43"/>
+</TextureAtlas>
