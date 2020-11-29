@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<!-- NMML reference: https://gist.github.com/1763850 -->
+	
+	<!-- metadata, make sure 'package' is at least 3 segments (ie. com.mycompany.myproject) -->
+	<meta title="BorrisGameEngine 02" package="BorrisGameEngine02" version="1.0.0" company="Rohaan Allport" />
+	
+	<!-- output -->
+	<app main="Main" file="BorrisGameEngine02" path="bin" swf-version="19" />
+	
+	<window background="#000000" fps="60" />
+	<window width="1920" height="1080" unless="mobile" />
+	<window orientation="landscape" vsync="false" antialiasing="1" if="cpp" />
+	
+	<!-- classpath, haxe libs -->
+	<source path="src" />
+	<haxelib name="openfl" />
+	<haxelib name="actuate" />
+	<haxelib name="starling" />
+	<haxelib name="box2D" />
+	<haxelib name="nape" />
+	<source path="E:\Data\Users\Borris123\Documents\Haxe Projects\BorrisUI\src" />
+	
+	<!-- assets -->
+	<assets path="assets/graphics" rename="graphics" />
+	<assets path="assets/fonts" />
+	<assets path="assets" />
+	<!--<assets path="assets/sounds" rename="sounds" />-->
+	<assets path="E:\Data\Users\Borris123\Documents\Haxe Projects\BorrisUI\assets/img" rename="img" />
+	<assets path="E:\Data\Users\Borris123\Documents\Haxe Projects\BorrisUI\assets/img" rename="graphics" />
+	
+	<!-- optimize output
+	<haxeflag name="-dce full" /> -->
+	
+</project>
